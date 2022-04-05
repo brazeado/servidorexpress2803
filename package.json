@@ -1,0 +1,22 @@
+{
+  "name": "servidorexpress2803",
+  "version": "1.0.0",
+  "description": "Aula do dia 28/03/2022.\r Prof. Marcelo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brazeado/servidorexpress2803.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brazeado/servidorexpress2803/issues"
+  },
+  "homepage": "https://github.com/brazeado/servidorexpress2803#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
