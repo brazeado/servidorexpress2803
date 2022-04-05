@@ -15,8 +15,7 @@ app.get('/', (req, res) => {
 
 app.get('/bandas', (req, res) => {
     console.log('Alguém Acessou a Rota /bandas');
-    console.log(req.params)
-    res.json({
+        res.json({
         "1": {
             "id": 1
             "nome": "banda"
